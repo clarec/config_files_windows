@@ -1,0 +1,20 @@
+[core]
+	editor = vim
+	autocrlf = input
+	safecrlf = true
+[user]
+	name = Clare Eayrs
+	email = clare.eayrs@nyu.edu
+[alias]
+	st = status
+	co = checkout
+	br = branch
+	up = rebase
+	ci = commit
+    hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+    type = cat-file -t
+    dump = cat-file -p
+[credentail]
+	helper = cache
+[credential]
+	helper = cache
