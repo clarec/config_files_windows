@@ -1,4 +1,13 @@
+#--------------
+# vim files
+#--------------
 *.swp
 *.swo
 *.bak
 *~
+
+# ----------------------
+# Other specific files
+# ----------------------
+# .dircolors # problem with line endings - need to sort this out!!
+.inputrc
