@@ -1,2 +1,3 @@
 # LF (not CRLF) for line endings
-.dircolors text eolf=lf
+# .dircolors text eolf=lf
+# I used dos2unix to convert this file in the end!!!
