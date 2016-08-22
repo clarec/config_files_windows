@@ -132,7 +132,7 @@ alias psg='ps aux | grep -v grep | grep -i -e VSZ -e'
 alias path='echo -e ${PATH//:/\\n}'
 alias libpath='echo -e ${LD_LIBRARY_PATH//:/\\n}'
 
-alias vi=vim
+alias vi='vim'
 
 # Umask
 #
